@@ -8,6 +8,9 @@ PhysicalCommunications.jl provides tools for the development & test of the physi
 
 ### Eye Diagrams
 
+| <img src="https://github.com/ma-laforge/FileRepo/blob/master/SignalProcessing/sampleplots/demo7.png" width="850"> |
+| :---: |
+
   - **`buildeye`**`()`: Builds an eye diagram by folding `x` values of provided `(x,y)` into multiple windows of `teye` that start (are "triggered") every `tbit`:
     - `buildeye(x::Vector, y::Vector, tbit::Number, teye::Number; tstart::Number=0)`
 
