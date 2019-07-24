@@ -70,4 +70,4 @@ end
 		@test eyedata.vy[i] == Float64[testbits[i+1], testbits[i+2]]
 	end
 end
-end
+end #"Eye Diagram Tests"
