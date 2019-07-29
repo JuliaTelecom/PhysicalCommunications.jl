@@ -1,4 +1,4 @@
-using Test, PhysicalCommunications
+#Eye Diagram Tests
 
 @testset "Eye Diagram Tests" begin #Scope for test data
 

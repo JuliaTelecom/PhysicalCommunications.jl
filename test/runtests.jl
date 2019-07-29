@@ -1,6 +1,6 @@
-using  Test
+using Test, PhysicalCommunications
 
-testfiles = [ "eyediag.jl" ]
+testfiles = [ "prbs.jl", "eyediag.jl"]
 
 for testfile in testfiles
 	include(testfile)
