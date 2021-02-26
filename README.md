@@ -1,6 +1,6 @@
 # PhysicalCommunications.jl
 
-[![Build Status](https://travis-ci.org/ma-laforge/PhysicalCommunications.jl.svg?branch=master)](https://travis-ci.org/ma-laforge/PhysicalCommunications.jl)
+[![Build Status](https://github.com/ma-laforge/PhysicalCommunications.jl/workflows/CI/badge.svg)](https://github.com/ma-laforge/PhysicalCommunications.jl/actions?query=workflow%3ACI)
 
 ## Description
 
